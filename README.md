@@ -1,6 +1,4 @@
 # opslevel-test-repo
 Repo for testing opslevel scenarios
 
-up2
-up3
-up4
+up5
